@@ -295,3 +295,5 @@ Project Link: [https://github.com/darideveloper/cancun-concierge](https://github
 [product-screenshot]: imgs/screenshot.png
 [gmail-url]: mailto:darideveloper@gmail.com
 [fiverr-url]: https://www.fiverr.com/darideveloper
+[gmail-shield]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555&logoColor=white
+[fiverr-shield]: https://img.shields.io/badge/-fiverr-black.svg?style=for-the-badge&logo=fiverr&colorB=555&logoColor=white
