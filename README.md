@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Web page Screenshot][product-screenshot]](webpage)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `darideveloper`, `repo_name`, `francisco-dari-hernandez-6456b6181`, `darideveloper@gmail.com`, `darideveloper@gmail.com`, `project_title`, `project_description`
 
@@ -292,7 +292,7 @@ Project Link: [https://github.com/darideveloper/cancun-concierge](https://github
 [license-url]: https://github.com/darideveloper/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/francisco-dari-hernandez-6456b6181/
-[product-screenshot]: imgs/screenshot.png
+[product-screenshot]: ./imgs/screenshot.gif
 [gmail-url]: mailto:darideveloper@gmail.com
 [fiverr-url]: https://www.fiverr.com/darideveloper
 [gmail-shield]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555&logoColor=white
