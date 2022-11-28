@@ -217,10 +217,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Desktop
+- [x] Mobile
+- [x] Animations
+- [x] Contact forms
+- [x] Client's domain
+- [x] Hosting
+- [x] Experience gallery
+- [x] Sliders
+
 
 See the [open issues](https://github.com/darideveloper/repo_name/issues) for a full list of proposed features (and known issues).
 
