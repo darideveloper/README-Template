@@ -20,6 +20,8 @@
 -->
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Fiverr][fiverr-shield]][fiverr-url]
+[![Gmail][gmail-shield]][gmail-url]
 
 
 
@@ -291,3 +293,5 @@ Project Link: [https://github.com/darideveloper/cancun-concierge](https://github
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/francisco-dari-hernandez-6456b6181/
 [product-screenshot]: imgs/screenshot.png
+[gmail-url]: mailto:darideveloper@gmail.com
+[fiverr-url]: https://www.fiverr.com/darideveloper
