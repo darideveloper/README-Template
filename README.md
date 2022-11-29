@@ -265,7 +265,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Darideveloper - [@developerdari](https://twitter.com/developerdari) - darideveloper@gmail.com.com
 
-Project Link: [https://github.com/darideveloper/cancun-concierge](https://github.com/darideveloper/cancun-concierge)
+Project Link: [https://github.com/darideveloper/repo_name](https://github.com/darideveloper/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
