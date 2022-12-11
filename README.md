@@ -11,13 +11,6 @@
 
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Fiverr][fiverr-shield]][fiverr-url]
@@ -84,9 +77,6 @@
 [![Web page Screenshot][product-screenshot]](webpage)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `darideveloper`, `repo_name`, `francisco-dari-hernandez-6456b6181`, `darideveloper@gmail.com`, `darideveloper@gmail.com`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -165,9 +155,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 </div>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -199,9 +186,6 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -209,8 +193,6 @@ This is an example of how to list things you need to use the software and how to
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -229,8 +211,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/darideveloper/repo_name/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -247,16 +227,12 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -267,9 +243,6 @@ Darideveloper - [@developerdari](https://twitter.com/developerdari) - daridevelo
 
 Project Link: [https://github.com/darideveloper/repo_name](https://github.com/darideveloper/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -278,8 +251,6 @@ Project Link: [https://github.com/darideveloper/repo_name](https://github.com/da
 * []()
 * []()
 * []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -302,3 +273,5 @@ Project Link: [https://github.com/darideveloper/repo_name](https://github.com/da
 [fiverr-url]: https://www.fiverr.com/darideveloper
 [gmail-shield]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555&logoColor=white
 [fiverr-shield]: https://img.shields.io/badge/-fiverr-black.svg?style=for-the-badge&logo=fiverr&colorB=555&logoColor=white
+
+<span>Last code update: <time datetime="2022-11-29" class="last-update">2022-11-29</time>
